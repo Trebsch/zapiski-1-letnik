@@ -1,4 +1,4 @@
-Moji zapiski iz predmeta predmetov 1. letnika programa Matematika na FMF UNILJ v šolskem letu 2023/2024
+Moji zapiski iz predmetov 1. letnika programa Matematika na FMF UNILJ v šolskem letu 2023/2024
 
 V interesu kratkosti so pogosto navedeni le ideje oziroma orisi dokazov. Prav tako so mnoge trditve, za katere je avtor mnenja, da so trivialne, puščene brez dokaza.
 
